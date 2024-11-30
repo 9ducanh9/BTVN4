@@ -1,0 +1,10 @@
+C:\Users\lamch\source\repos\New\New\obj\Debug\New.csproj.AssemblyReference.cache
+C:\Users\lamch\source\repos\New\New\obj\Debug\New.Form1.resources
+C:\Users\lamch\source\repos\New\New\obj\Debug\New.Properties.Resources.resources
+C:\Users\lamch\source\repos\New\New\obj\Debug\New.csproj.GenerateResource.cache
+C:\Users\lamch\source\repos\New\New\obj\Debug\New.csproj.CoreCompileInputs.cache
+C:\Users\lamch\source\repos\New\New\bin\Debug\New.exe.config
+C:\Users\lamch\source\repos\New\New\bin\Debug\New.exe
+C:\Users\lamch\source\repos\New\New\bin\Debug\New.pdb
+C:\Users\lamch\source\repos\New\New\obj\Debug\New.exe
+C:\Users\lamch\source\repos\New\New\obj\Debug\New.pdb
